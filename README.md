@@ -11,7 +11,7 @@
 
 ## 개발 범위
 1. 게임 시작 화면
-<img src="READMEImg/스마겜플 게임 타이틀 사진.jpg" width="400" height="400"/>
+<img src="https://github.com/Dong-ho-nim/TempleRun/blob/main/%EC%8A%A4%EB%A7%88%EA%B2%9C%ED%94%8C%20%EA%B2%8C%EC%9E%84%20%ED%83%80%EC%9D%B4%ED%8B%80%20%EC%82%AC%EC%A7%84.png" width="400" height="400"/>
 
 
 ## 예상 게임 실행 흐름
