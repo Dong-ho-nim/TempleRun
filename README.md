@@ -20,6 +20,8 @@
 
 3. 게임 진행 화면
 
+<img src="https://github.com/Dong-ho-nim/TempleRun/blob/main/%EA%B2%8C%EC%9E%84%20%EC%A7%84%ED%96%89%20%ED%99%94%EB%A9%B4.png" width="400" height="400"/>
+
 
 
 ## 예상 게임 실행 흐름
